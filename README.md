@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm lightning</h1>
 <h3 align="center">Passionate Programmer and infosec researcher</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lightning-christ&label=Profile%20views&color=0e75b6&style=flat" alt="lightning-christ" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lightning-christ" alt="lightning-christ" /></a> </p>
-
 - 🌱 I’m currently learning **Infosec, pentesting**
 
 - 💬 Ask me about **Anything lol**
