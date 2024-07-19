@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @lightning-christ
-- 👀 I’m interested in ... Cybersecurity and Programming
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ...
+# Hello, I'm Lightning 👋
+Welcome to my GitHub profile!
 
-<!---
-lightning-christ/lightning-christ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# About Me
+🌍 Location: Sydney
+💼 Current Role: Student
+🖥 Tech Stack: I enjoy working with JavaScript, TypeScript, and Python.
+🔒 Interests: Passionate about Information Security (Infosec)
+
+# How to Reach Me
+📧 Email: lightningchrist@pm.me
+
+Feel free to check out my repositories and reach out if you have any questions or just want to connect!
