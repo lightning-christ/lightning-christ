@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Anything lol**
 
-- 📫 How to reach me **lightning-christ@pm.me**
+- 📫 How to reach me **lightningchrist@pm.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
