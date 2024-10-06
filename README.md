@@ -9,6 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+If you knew me before and want to get in contact:
+
+Discord - r.lightning
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
